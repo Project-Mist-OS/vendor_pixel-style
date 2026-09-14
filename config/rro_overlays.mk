@@ -63,5 +63,4 @@ PRODUCT_PACKAGES += \
     VerifierResOverlay \
     WallpaperPicker2Overlay \
     WallpaperPicker2PixelOverlay \
-    WildlifeSettingsVpnOverlay2022 \
-    WildlifeSysuiVpnOverlay2022
+    WildlifeSettingsVpnOverlay2022
