@@ -115,3 +115,6 @@ $(call inherit-product, vendor/pixel-style/config/audio.mk)
 
 # Inherit from rro_overlays config
 $(call inherit-product, vendor/pixel-style/config/rro_overlays.mk)
+
+# Inherit from vibration config
+$(call inherit-product, vendor/pixel-style/config/vibration.mk)

@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/pixel-style/audio/notifications/Gentle_gong.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Gentle_gong.ogg \
     vendor/pixel-style/audio/notifications/Kernel.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Kernel.ogg \
     vendor/pixel-style/audio/notifications/Mallet.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Mallet.ogg \
+    vendor/pixel-style/audio/notifications/None.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/None.ogg \
     vendor/pixel-style/audio/notifications/Orders_up.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Orders_up.ogg \
     vendor/pixel-style/audio/notifications/Ping.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Ping.ogg \
     vendor/pixel-style/audio/notifications/Pipes.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/notifications/Pipes.ogg \
@@ -55,6 +56,7 @@ PRODUCT_COPY_FILES += \
     vendor/pixel-style/audio/ringtones/Lost_and_found.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Lost_and_found.ogg \
     vendor/pixel-style/audio/ringtones/Mash_up.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Mash_up.ogg \
     vendor/pixel-style/audio/ringtones/Monkey_around.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Monkey_around.ogg \
+    vendor/pixel-style/audio/ringtones/None.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/None.ogg \
     vendor/pixel-style/audio/ringtones/Schools_out.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Schools_out.ogg \
     vendor/pixel-style/audio/ringtones/The_big_adventure.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/The_big_adventure.ogg \
     vendor/pixel-style/audio/ringtones/The_next_adventure.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/The_next_adventure.ogg \
